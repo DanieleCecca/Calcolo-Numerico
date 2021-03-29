@@ -4,7 +4,7 @@
 
 - Function che implementa l'algoritmo di riduzione a scalini di una matrice A
 
-- Applicazione del l'algoritmo di riduzione a scalini all'interno delle seguenti function che determinano:
+- Applicazione dell'algoritmo di riduzione a scalini all'interno delle seguenti function che determinano:
     - il rango di A
     - una base di Im(A)
     - una base di Ker(A)
